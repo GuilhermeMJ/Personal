@@ -14,7 +14,7 @@ Resumo
 
 Desenvolvedor Front End com experiência na criação de hotsites e aplicações web responsivas utilizando HTML5, CSS3 e JavaScript (ECMAScript5). Atualmente cursando Ciência da Computação na Universidade Anhembi Morumbi.
 
-Apesar de não atuar na área, possuo formação técnica em Multimídia e conhecimentos gerais em Marketing, Publicidade e Produção de Mídia.
+Possuo formação técnica em Multimídia e conhecimentos gerais em Marketing, Publicidade e Produção de Mídia.
 
 
 Habilidades
