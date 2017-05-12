@@ -22,10 +22,9 @@ Habilidades
 
 ### Linguagens Principais
 - **HTML5** 8/10
-- **CSS3** 7/10
+- **CSS3** 8/10
 - **JavaScript** 7/10
 - **PHP** 3/10
-- **Java** 1/10
 
 ### Bibliotecas, ferramentas e diferenciais
 jQuery, Bootstrap 3, Foundation, Responsive Web Design, CSS preprocessors (SASS, Less), Git, CakePHP, OOP, AJAX, compatibilidade Cross Browser, Arquitetura RESTful, Arquitetura MVC, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Premiere.
