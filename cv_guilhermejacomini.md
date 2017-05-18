@@ -1,13 +1,14 @@
 
-Guilherme Jacomini
-==================
+Guilherme Minsoni Jacomini
+===========================
 
 - **Telefone Residencial:** (11) 2261-4694
 - **Celular:** (11) 97114-3706
 - **Email:** guilhermem.j@hotmail.com
-- **Endereço:** Rua Maria Francisca, 333 - Vila irmãos Arnoni - 02374-010 - São Paulo - SP
+- **Endereço:** Zona Norte - São Paulo
 - **Data de Nascimento:** 15/02/1997
 - **Estado Civil:** Solteiro
+
 
 Resumo
 -------
@@ -62,7 +63,9 @@ Experiência com Sistema Operacional Linux, Git e editores de imagem online.
 **Estagiário em Multimídia**  
 *Dez/2012 - Fev/2014 (1 ano e 4 meses)*
 
-Captação e edição de imagens (vídeo e fotografia) em eventos variados. Experiência com programas do pacote Adobe Creative Cloud e plataforma Apple.
+Captação e edição de imagens (vídeo e fotografia) em eventos variados.
+
+Experiência com programas do pacote Adobe Creative Cloud e plataforma Apple.
 
 
 Acadêmico
