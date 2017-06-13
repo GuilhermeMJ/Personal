@@ -19,16 +19,35 @@ Possuo formação técnica em Multimídia e conhecimentos gerais em Marketing, P
 
 
 Habilidades
-------------
+-------------
 
-### Linguagens Principais
-- **HTML5** 8/10
-- **CSS3** 8/10
-- **JavaScript** 7/10
-- **PHP** 3/10
 
-### Bibliotecas, ferramentas e diferenciais
-jQuery, Bootstrap 3, Foundation 5, Responsive Web Design, CSS preprocessors (Sass, Less), Git, CakePHP, OOP, AJAX, compatibilidade Cross-Browser, Arquitetura RESTful, Arquitetura MVC, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Premiere.
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+
+
+- jQuery
+- Bootstrap 3 e Foundation 5
+- Git
+- CSS Preprocessors (Sass, Less)
+- Markdown
+- CakePHP
+- Unix Command Line
+
+
+- Responsive Web Design
+- Compatibilidade Cross-Browser
+- Object-Oriented Programming
+- Arquitetura RESTful
+- Arquitetura MVC
+
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Adobe Premiere
 
 ### Idiomas
 - **Português:** Nativo
