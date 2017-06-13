@@ -21,13 +21,13 @@ Possuo formação técnica em Multimídia e conhecimentos gerais em Marketing, P
 Habilidades
 -------------
 
-
+### Linguagens
 - HTML5
 - CSS3
 - JavaScript
 - PHP
 
-
+### Bibliotecas, Ferramentas e Frameworks
 - jQuery
 - Bootstrap 3 e Foundation 5
 - Git
@@ -36,14 +36,14 @@ Habilidades
 - CakePHP
 - Unix Command Line
 
-
+### Conceitos
 - Responsive Web Design
 - Compatibilidade Cross-Browser
 - Object-Oriented Programming
 - Arquitetura RESTful
 - Arquitetura MVC
 
-
+### Programas
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe InDesign
