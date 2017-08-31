@@ -1,4 +1,6 @@
 
+[Baixar versão em PDF](https://github.com/guilhermemj/personal/blob/master/cv_guilhermejacomini.pdf)
+
 Guilherme Minsoni Jacomini
 ===========================
 
